@@ -4,7 +4,7 @@
 
 class IGraph{
     public:
-        virtual ~IGrAph(){}
+        virtual ~IGraph(){}
         IGraph() {};
 
         IGraph(IGraph *_oth){};
